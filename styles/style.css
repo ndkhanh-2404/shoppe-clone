@@ -218,12 +218,12 @@
 }
 
 #btn-slider {
-  margin-top: 50%;
+  margin-top: 38%;
   padding: 5%;
   font-size: 25px;
 }
 .img-slider .row img {
-  width: 100%;
+  width: 80%;
   height: auto;
   object-fit: contain;
   position: absolute;
